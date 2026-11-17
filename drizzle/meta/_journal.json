@@ -15,6 +15,13 @@
       "when": 1794861000000,
       "tag": "0001_push_subscriptions",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794920000000,
+      "tag": "0002_message_translations",
+      "breakpoints": true
     }
   ]
 }
